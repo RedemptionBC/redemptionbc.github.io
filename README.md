@@ -25,11 +25,31 @@
 * Presentation Decks
     * What
     * Why
-* Shirts
+* Swag
     * What
     * Why
 
 ## Brands
 
 * Ridgeline Church
+* myXP
 * House & Shield
+* Ryan Huguley
+* In The Room
+* Redemption Bible Church
+* Harvest Madison
+
+## Inspiration
+
+### Marketing & Web
+
+* https://basecamp.com
+* https://draft.nu
+* https://finch.co
+* https://knowyourcompany.com
+* https://land-book.com
+* https://sproutsocial.com
+
+### Brand & Print
+
+* https://fromupnorth.com/30-beautiful-business-card-designs-df4c2c885961
